@@ -5,3 +5,5 @@ Location: Haifa
 Name: nana
 Location: jaljulia
 
+This is the start of the story.
+The story will be continued in the next chapter.
